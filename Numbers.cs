@@ -9,6 +9,7 @@ namespace HomeWork6
 
         static public object[] DivideCases =
         {
+            new object[] { 0, 0 },
             new object[] { 0, 1 },
             new object[] { 0, 2 },
             new object[] { 0, 3 },
